@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nirmal Ram</h1>
-<h3 align="center">Software Engineer - Full Stack Developer</h3>
+<h3 align="center">Software Engineer @ Motorola</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramnirmal0&label=Profile%20views&color=0e75b6&style=flat" alt="ramnirmal0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramnirmal0" alt="ramnirmal0" /></a> </p>
 
-- 🔭 I’m currently working on **Mozark AquaMark**
+- 🔭 I’m currently working on **Motorola**
 
-- 👯 I’m looking to collaborate on **OpenSTF , WebRTC**
+- 👯 I’m looking to collaborate on **OpenSTF , WebRTC, Android**
 
 - 💬 Ask me about **MERN STACK , WORDPRESS , IoT , Robotics**
 
-- 📫 How to reach me **nirmal@mozark.ai**
+- 📫 How to reach me **nirmalr@motorola.com**
 
 - 📄 Know about my experiences [https://ramnirmal0.github.io/](https://ramnirmal0.github.io/)
 
